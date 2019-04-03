@@ -1,0 +1,12 @@
+.input-tag-name{
+    outline: none;
+}
+.tag-div{
+    margin: 0px 10px;
+    padding: 7px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+.tag-div i {
+    cursor: pointer;
+}

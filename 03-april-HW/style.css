@@ -1,5 +1,6 @@
 .input-tag-name{
-    outline: none;
+    outline: transparent;
+    min-width: 250px;
 }
 .tag-div{
     margin: 0px 10px;
